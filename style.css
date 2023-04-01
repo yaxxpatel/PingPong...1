@@ -1,0 +1,15 @@
+body
+{
+
+}
+
+#instructionsID
+{
+    float: right;
+    border: 5px solid cyan;
+}
+
+div
+{
+    width: 100%;
+}
